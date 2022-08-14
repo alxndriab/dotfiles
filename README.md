@@ -4,5 +4,5 @@
 
 ex 
 ```
-mklink /J C:\LinkToFolder C:\Users\Name\OriginalFolder
+mklink filename.filetype \Name\originalFilename.filetype
 ```
