@@ -10,3 +10,6 @@ mklink filename.filetype \Name\originalFilename.filetype
 # folder
 mklink /J C:\LinkToFolder C:\Users\Name\OriginalFolder
 ```
+
+**Note**
+- Update vaporwave png path in settings
