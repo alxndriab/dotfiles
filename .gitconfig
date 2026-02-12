@@ -1,18 +1,3 @@
 [user]
+	name = alxndriab
 	email = 66260572+alxndriab@users.noreply.github.com
-	name = Alexandria
-
-[alias]
-	grph = log --graph --pretty=oneline --abbrev-commit
-
-[core]
-	editor = \"C:\\Users\\ab420\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
-
-[filter "lfs"]
-	clean = git-lfs clean -- %f
-	smudge = git-lfs smudge -- %f
-	process = git-lfs filter-process
-	required = true
-
-[init]
-	defaultBranch = main
