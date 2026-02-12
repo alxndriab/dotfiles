@@ -1,4 +1,12 @@
 # dotfiles
+## how to redownload
+```
+git clone https://github.com/yourname/dotfiles ~/.dotfiles
+cd ~/.dotfiles
+./install.sh   # if you have a setup script
+```
+
+## how to
 
 [Symlinking](https://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/)
 
